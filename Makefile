@@ -3,4 +3,5 @@ rust:
 
 ln:
 	@ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
-
+	@ln -sf ~/.dotfiles/.emacs ~/.emacs
+	
